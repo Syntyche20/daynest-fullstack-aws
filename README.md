@@ -1,7 +1,4 @@
-# daynest-fullstack-aws
-Application de gestion de tâches déployée sur AWS ECS avec Docker
-
-# 📌 Daynest  — Dashboard de Productivité Minimaliste
+#  Daynest  — Dashboard de Productivité Minimaliste
 
 **Daynest** est une application Fullstack conçue pour offrir un environnement de travail numérique serein et structuré. L'accent a été mis sur une expérience utilisateur (UX) apaisante et une architecture Cloud robuste.
 
